@@ -1,0 +1,26 @@
+.footer {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 20px;
+  position: absolute;
+  bottom: 0;
+
+}
+
+.socialMedia svg {
+  color: black;
+  margin: 20px;
+  font-size: 50px;
+  cursor: pointer;
+  bottom: 0;
+}
+
+.footer p {
+  color: black;
+  font: 200;
+  font-size: larger;
+}
